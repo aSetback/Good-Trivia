@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: Good Trivia
+## Notes: Trivia Bot for Guild Chat
+## Version: 1.0.0
+
+Trivia.lua
